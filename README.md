@@ -173,7 +173,7 @@ python3 how_small.py --start 5 --end 300 --step 10 --lowpass_filter 15 --num 5
 ```
 Our experimental results show that the **performance of the classifier can still be good for small window sizes** (especially if the data is smoothed beforehand).
 <p align="center">
-  <img src="https://github.tik.uni-stuttgart.de/iss/dl-lab-21w-team20/blob/master/human_activity_recognition/how_small/combined_plot.png" />
+  <img src="https://github.com/KaiPan1998/human_activity_recognition/blob/main/how_small/combined_plot.png" />
 </p>
 
 # Logging
